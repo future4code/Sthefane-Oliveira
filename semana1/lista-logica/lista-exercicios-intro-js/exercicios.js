@@ -28,18 +28,18 @@ console.log(area)
 
 // EXERCÍCIO 02
 function imprimeIdade() {
-const anoAtual = Number(prompt("qual o ano do seu nascimento?"))
-const anoNasc = Number(prompt("digite o ano atual"))
-const idade = anoAtual - anoNasc
-console.log = (idade)
+  anoAtual = Number(prompt('Ano atual'))
+  anoNasc = Number(prompt('Ano de nascimento'))
+  console.log(anoAtual - anoNasc)
 }
-
 // EXERCÍCIO 03
 function calculaIMC(peso, altura) {
-const seuPeso = Number(prompt("digite seu peso"))
-const suaAltura = Number(prompt("digite sua altura"))
-const imc = seuPeso / (suaAltura * suaAltura)
-console.log = (imc)
+  return (peso / (altura * altura))
+// function calculaIMC(peso, altura) {
+// const seuPeso = Number(prompt("digite seu peso"))
+// const suaAltura = Number(prompt("digite sua altura"))
+// return((suaAltura * suaAltura) / seuPeso)
+
 }
 
 // EXERCÍCIO 04
