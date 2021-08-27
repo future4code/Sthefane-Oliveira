@@ -1,0 +1,15 @@
+.cabecalho {
+    font-size: 30;
+    text-align: center;
+    color:rgb(66, 13, 66);
+    border: 3px solid black;
+    background-color: rgb(182, 182, 182);
+    margin: 5px;
+}
+.rodape {
+    font-size:30px ;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: black;
+    
+}
