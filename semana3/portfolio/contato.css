@@ -1,0 +1,44 @@
+
+
+
+
+.redeSocial {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.redeSocial li {
+    display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+    
+}
+.redeSocial h2 {
+    font-size: 30px;
+	font-weight: bold;
+}
+.redeSocial img {
+    float: left;
+    width: 90%;
+}
+.formulario {
+    margin: 10px;
+    text-align: center;
+    
+    
+    
+}
+.formulario input {
+    background-color:rgb(216, 216, 216);
+    font-size: 20px;
+    border-radius: 4%;
+    border-color: teal;
+}
+
+
