@@ -1,0 +1,43 @@
+html, body h1{
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg);
+
+   
+}
+
+.cabecalho h1 img{
+    height: 200px; 
+    width: 100%; 
+    
+    
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+    margin: 10px;
+    
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 20px;
+}
+nav a {
+    text-transform: uppercase;
+    color: rgb(216, 216, 216);
+    font-weight: bold;
+    font-size: ;
+    text-decoration: none;
+}
+
+footer {
+  
+    position:absolute;
+    bottom:0;
+    width:100%;
+    background-color: rgb(95, 162, 216);
+    text-align: center;
+
+}
